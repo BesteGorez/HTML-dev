@@ -4,7 +4,7 @@
 <h3>Hakkımda</h3>
 <!--h2 den daha küçük fonta sahip h3 ü seçtim-->
 
-<p>Merhaba Ben Beste N.Görez Kayseri de yaşıyorum.Havacılık Fakültesi mezunuyum.patika.dev ve Kodluyoruz da eğitim almaya yeni başladım.Çok seviyorum ve yeni şeyler öğrendiğim için heyecanlıyım.</p>
+<p>Merhaba Ben Beste N.Görez.Havacılık Fakültesi mezunuyum.patika.dev ve Kodluyoruz da eğitim almaya yeni başladım.Çok seviyorum ve yeni şeyler öğrendiğim için heyecanlıyım. bla bla bla</p>
 
 <h3>Sevdiğim Diziler</h3>
 
